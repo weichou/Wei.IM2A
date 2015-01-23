@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="blue">#0000ff</color>
+    <color name="bg_app">#fefff8</color>
+    <color name="bg_app_alpha_cc">#ccfefff8</color>
+    <color name="bg_title_orange">#ff8e68</color>
+
+</resources>
